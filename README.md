@@ -1,6 +1,4 @@
-## 外口欲食啥物碗粿
-- :dart: [Oh My Luck](https://ohmyluck.com/zh-tw/)
-- :dart: [隨機工具](https://tw.piliapp.com/label/random/) by 工具邦
+## :dart: [外口欲食啥物碗粿](https://ohmyluck.com/zh-tw/)
 
 ### 風尚
 ```
