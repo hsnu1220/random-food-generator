@@ -1,4 +1,5 @@
 ## :dart: [外口欲食啥物碗粿](https://ohmyluck.com/zh-tw/)
+> 先甲下跤ê候選人copy起來!
 
 ### 風尚
 ```
